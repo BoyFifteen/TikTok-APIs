@@ -27,7 +27,7 @@ Ready to take your TikTok development to the next level? I'm offering a **comple
 - **Ongoing Support**: I offer continued support and updates for future enhancements and functionalities.
 
 ## How to Purchase
-👉 **To buy the source code or for more information, please contact me via Telegram at [@SizaGod](https://t.me/SizaGod)**.
+👉 **To buy the source code or for more information, please contact me via Telegram at [@SizaGod](https://t.me/Boyften)**.
 
 ## Conclusion
 Don't miss the chance to enhance your TikTok applications with a powerful and efficient source code. **Contact me today and start building amazing TikTok integrations with ease!**
